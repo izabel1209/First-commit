@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(void)
 {
-printf("first commit");
+printf("second commit");
 return 0;
 }
 
